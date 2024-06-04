@@ -1,3 +1,4 @@
+# Deep Learning Model (LSTM) for Streamflow Forecasting in Humber River, Newfoundland, Canada
 Upper Humber River Watershed (UHRW) in Western Newfoundland, which is part of the Atlantic boreal region of North America. This area, specifically located in Western Newfoundland, Canada, spans approximately 2,800 square kilometers.
 
 LSTM model has been applied to the watershed and it exhibited superior performance in predicting streamflow. 
