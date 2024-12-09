@@ -1,0 +1,37 @@
+Improved Streamflow Prediction Accuracy in Boreal Climate Watershed Using a Lstm Model: A Comparative Study
+
+
+Kamal Ziaul Islam (he/him)
+Transdisciplinary Sustainability Doctoral Candidate
+School of Science & Environment
+Grenfell Campus, Memorial University of Newfoundland
+Email: kzislam@mun.ca
+cell- 7096392607
+
+
+
+Abstract
+Streamflow plays a vital role in water resource management and environmental impact assessment. 
+This study is a novel application of the Long Short-Term Memory (LSTM) model, a type of recurrent neural network, 
+for real-time streamflow prediction in the Upper Humber River Watershed in western Newfoundland. 
+It also compares the performance of the LSTM model with the physically based SWAT model. 
+The LSTM model was optimized by tuning hyperparameters and adjusting the look-back period (window size) to balance 
+capturing historical data and ensuring prediction stability. Using single input variables such as daily average 
+temperature or precipitation, the LSTM achieved a high Nash-Sutcliffe Efficiency (NSE) of 0.95. In comparison, 
+the results show that the LSTM model delivers a more competitive performance, achieving a NSE of 0.95 versus SWAT’s 0.77, 
+and a percent bias (PBIAS) of 0.62 compared to SWAT’s 8.26. Unlike SWAT, the LSTM model does not overestimate high flows 
+and excels in predicting low flows. Additionally, the LSTM successfully predicted daily streamflow using real-time data. 
+Despite challenges in interpretability and generalizability, the LSTM model demonstrated strong performance, particularly 
+during extreme events, making it a valuable tool for streamflow prediction in cold climates where accurate forecasts are 
+crucial for effective water management. Moreover, hybrid models that merge LSTM’s strength in recognizing temporal patterns 
+with SWAT’s detailed watershed simulations could provide a more comprehensive solution for hydrological forecasting. 
+This study highlights the potential of the LSTM model's deep learning techniques, using minimal features, to improve water 
+resource management by effectively capturing high and low flow events, seasonality, and integrating real-time data.
+
+Keywords: Hydrological Modeling, Machine learning, Deep learning, Rainfall-runoff prediction, time series analysis, Upper Humber River Watershed
+
+Suggested Citation:
+
+Islam, Kamal and Daraio, Joseph and Cheema, Mumtaz and Sabau, Gabriela and Galagedara, Lakshman, 
+Improved Streamflow Prediction Accuracy in Boreal Climate Watershed Using a Lstm Model: A Comparative Study. 
+Available at SSRN: https://ssrn.com/abstract=5000043 or http://dx.doi.org/10.2139/ssrn.5000043
